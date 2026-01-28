@@ -1,0 +1,30 @@
+{
+  "name": "cse341-w03-w04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicheleArgenti/cse341-w03-w04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MicheleArgenti/cse341-w03-w04/issues"
+  },
+  "homepage": "https://github.com/MicheleArgenti/cse341-w03-w04#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
