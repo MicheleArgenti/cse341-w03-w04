@@ -5,10 +5,9 @@
     "description": "API documentation for the CSE341 Node.js Project W03-W04",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "cse341-w03-w04.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
